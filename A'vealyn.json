@@ -1,0 +1,1011 @@
+{
+    "_meta": {
+      "sources": [
+        {
+          "json": "A'vealyn",
+          "abbreviation": "A'vyn",
+          "full": "A'vealyn",
+          "color": "af6941",
+          "authors": ["Cult Of Cthulhu"],
+          "convertedBy": ["CoC"],
+          "version": "2019.5",
+          "url": "https://github.com/Scarynessie/CultOfCthulhuAvealyn",
+          "targetSchema": "1.0.0"
+        }
+      ],
+      "dateAdded": 1571252818,
+      "dateLastModified": 1692309855,
+      "_dateLastModifiedHash": "16b4fc90d0"
+    },
+    "deity": [
+      {
+        "name": "Tempus",
+        "title": "God of War",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["L", "G"],
+        "domains": ["War"],
+        "symbol": "A white lightning bolt",
+        "pantheon": "Old Gods",
+        "customProperties": {
+          "Depiction": "An old king, sometimes seated, holding a bolt of lightning",
+          "Worshipers": "Citizens, paladins, heroes, kings, soldiers",
+          "Sacred Places": "Temples, shrines, palaces, courts, Mount Hyperius",
+          "Suggested Classes": "Paladin, fighter, sorcerer"
+        },
+        "entries": [
+          "Tempus is the king of gods, and father to them all. He is strength and wisdom, the balance of kings. He represents civilization itself, law, reason, and justice. Yet when tested, he is wrath, the swift lightning of retribution and the thundering crash of judgment. Like Krytos, he is a god of battle, but represents its nobler side. He is honor, courage, and valor. His are the tactics and strategies that bring victory over strength of arms alone."
+        ]
+      },
+      {
+        "name": "Asmodaen",
+        "title": "The Betrayer",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["C", "N"],
+        "domains": ["Trickery"],
+        "symbol": "A pair of red swords crossed on a shield",
+        "pantheon": "Old Gods",
+        "customProperties": {
+          "Depiction": "A mighty male warrior clad in armor, wielding shield and spear",
+          "Worshipers": "Orcs, gladiators, hoplites, mercenaries",
+          "Sacred Places": "Arenas, colosseums, battlefields, Krytan Citadels",
+          "Suggested Classes": "Fighter, barbarian, monk"
+        },
+        "entries": [
+          "Asmodaen is the god of war, glory, and strength. He is in the clash of bronze, the hot blood spilled upon arena sand. Wherever mortals fight and die, Asmodaen lives. He is the god of conflict, battle, and victory. He is the god of bloodlust, fury, and battle madness. Those that worship him seek glory, renown through feats of strength, and to die a good death that will be remembered in tale and song."
+        ]
+      },
+      {
+        "name": "Hecatontagon",
+        "title": "God of Destiny",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["N", "G"],
+        "domains": ["Fate", "Knowledge"],
+        "symbol": "A dark blue trident",
+        "pantheon": "Old Gods",
+        "customProperties": {
+          "Depiction": "A human or Scyllaean elf woman holding a trident and a scroll or stone tablet",
+          "Worshipers": "Scyllaean elves, sailors, philosophers, fishermen, explorers, merchants",
+          "Sacred Places": "Lighthouses, harbors, the Acropolis of Ithea",
+          "Suggested Classes": "Wizard, cleric, rogue"
+        },
+        "entries": [
+          "Hecatontagon is the god of knowledge, magic, prophecy, and the sea. He is in the promise of the tide, the warm winds that bring sailors safely home, and the life-giving bounty of the sea. His are the arts of navigation, the stars, divination, arcana, and discovery."
+        ]
+      },
+      {
+        "name": "Titan",
+        "title": "God of Chaos",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["C", "N"],
+        "domains": ["Chaos"],
+        "symbol": "A volcano",
+        "pantheon": "New Gods",
+        "customProperties": {
+          "Depiction": "A dwarf holding a flame",
+          "Worshipers": "Dwarves, craftsmen; masons, bronze smiths, miners, jewelers, and glaziers",
+          "Sacred Places": "Forges and mountain shrines with ever-burning flames",
+          "Suggested Classes": "Fighters, paladins"
+        },
+        "entries": [
+          "Titan is the god of chaos and unpredictability. He thrives in the ever-changing nature of existence, embracing disorder and upheaval. Those who worship Titan seek to harness the power of chaos and adapt to the tumultuous world around them."
+        ]
+      },
+      {
+        "name": "Aelindra",
+        "title": "Goddess of Dreams",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["N", "G"],
+        "domains": ["Dreams", "Knowledge"],
+        "symbol": "A golden lyre",
+        "pantheon": "New Gods",
+        "customProperties": {
+          "Depiction": "A beautiful woman holding a golden lyre",
+          "Worshipers": "Dreamers, scholars, artists, seers, those who seek inspiration",
+          "Sacred Places": "Dreaming groves, libraries, theaters, art galleries",
+          "Suggested Classes": "Bards, wizards, clerics"
+        },
+        "entries": [
+          "Aelindra is the goddess of dreams and the imagination. She inspires creativity, insight, and visions. Those who look to Aelindra for guidance find themselves blessed with vivid dreams and the ability to tap into their innermost creativity."
+        ]
+      },
+      {
+        "name": "Arvanador",
+        "title": "God of the Forge",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["L", "N"],
+        "domains": ["Fire", "Crafting"],
+        "symbol": "A blacksmith's hammer",
+        "pantheon": "New Gods",
+        "customProperties": {
+          "Depiction": "A skilled blacksmith crafting a mighty weapon",
+          "Worshipers": "Blacksmiths, artisans, craftsmen, those who seek mastery of their craft",
+          "Sacred Places": "Forges, blacksmith workshops, crafting guilds",
+          "Suggested Classes": "Artificers, fighters, clerics"
+        },
+        "entries": [
+          "Arvanador is the god of the forge and craftsmanship. He embodies the art of blacksmithing and the creation of magnificent weapons and armor. His followers are skilled artisans who seek to master their craft and create legendary items."
+        ]
+      },
+      {
+        "name": "Xaylene Xeranos",
+        "title": "God of Merchants",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["N", "G"],
+        "domains": ["Commerce", "Travel"],
+        "symbol": "Scales of justice",
+        "pantheon": "New Gods",
+        "customProperties": {
+          "Depiction": "A merchant holding scales and a bag of gold",
+          "Worshipers": "Merchants, traders, negotiators, those seeking prosperity in trade",
+          "Sacred Places": "Marketplaces, trading posts, banks, merchant guilds",
+          "Suggested Classes": "Rogues, bards, clerics"
+        },
+        "entries": [
+          "Xaylene Xeranos is the god of merchants and commerce. He oversees fair trade, prosperous markets, and the exchange of goods. His followers seek wealth and success in the world of commerce, and they often turn to him for guidance in business endeavors."
+        ]
+      },
+      {
+        "name": "Leylani",
+        "title": "Fledgling Goddess of the Moon",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["C", "N"],
+        "domains": ["Moon", "Nature"],
+        "symbol": "A crescent moon",
+        "pantheon": "Fledgling Gods",
+        "customProperties": {
+          "Depiction": "A young goddess with a crescent moon in her hair",
+          "Worshipers": "Moon worshipers, druids, those who find solace in the night sky",
+          "Sacred Places": "Moonlit groves, serene lakes under moonlight, lunar observatories",
+          "Suggested Classes": "Druids, wizards, bards"
+        },
+        "entries": [
+          "Leylani is the fledgling goddess of the moon, emerging as a symbol of the night sky and its mysteries. Those who revere her find solace in the serene glow of the moon and seek to explore the secrets of the night."
+        ]
+      },
+      {
+        "name": "Lothwyn",
+        "title": "Fledgling Goddess of the Moon",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["C", "N"],
+        "domains": ["Moon", "Nature"],
+        "symbol": "A crescent moon",
+        "pantheon": "Fledgling Gods",
+        "customProperties": {
+          "Depiction": "A young goddess with a crescent moon in her hair",
+          "Worshipers": "Moon worshipers, druids, those who find solace in the night sky",
+          "Sacred Places": "Moonlit groves, serene lakes under moonlight, lunar observatories",
+          "Suggested Classes": "Druids, wizards, bards"
+        },
+        "entries": [
+          "Lothwyn is the fledgling goddess of the moon, emerging as a symbol of the night sky and its mysteries. Those who revere her find solace in the serene glow of the moon and seek to explore the secrets of the night."
+        ]
+      },
+      {
+        "name": "Chuthlu",
+        "title": "The Great Demon",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["C", "E"],
+        "domains": ["Demon", "Chaos"],
+        "symbol": "A pentagram",
+        "pantheon": "Demon Gods",
+        "customProperties": {
+          "Depiction": "A monstrous demon with tentacles and multiple eyes",
+          "Worshipers": "Cultists, dark sorcerers, those who revel in chaos and destruction",
+          "Sacred Places": "Cursed ruins, dark temples, forbidden sites of power",
+          "Suggested Classes": "Warlocks, necromancers, cult leaders"
+        },
+        "entries": [
+          "Chuthlu is the great demon of chaos and destruction. It is a monstrous entity with tentacles and multiple eyes, spreading madness and chaos wherever it goes. Its worshipers seek to bring about the end of order and revel in the chaos it creates."
+        ]
+      },
+      {
+        "name": "Maraxus",
+        "title": "Oracle Demon",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["C", "E"],
+        "domains": ["Demon", "Prophecy"],
+        "symbol": "An eye in a swirling vortex",
+        "pantheon": "Demon Gods",
+        "customProperties": {
+          "Depiction": "A demonic entity with a swirling vortex for a body and a single eye at its center",
+          "Worshipers": "Seers, cultists, those who seek forbidden knowledge and prophecy",
+          "Sacred Places": "Dark sanctuaries, hidden libraries, ancient ruins",
+          "Suggested Classes": "Sorcerers, oracles, seers"
+        },
+        "entries": [
+          "Maraxus is the oracle demon, possessing forbidden knowledge and the power of prophecy. Its followers delve into dark mysteries and seek to unveil the secrets of the future, often at a terrible cost."
+        ]
+      },
+      {
+        "name": "Lolth",
+        "title": "Spider Demon",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["C", "E"],
+        "domains": ["Demon", "Trickery"],
+        "symbol": "A black widow spider",
+        "pantheon": "Demon Gods",
+        "customProperties": {
+          "Depiction": "A monstrous spider with a dark, seductive allure",
+          "Worshipers": "Drow, arachnid cults, those who embrace treachery and cunning",
+          "Sacred Places": "Underground lairs, web-covered temples, shadowy caverns",
+          "Suggested Classes": "Rogues, warlocks, drow priestesses"
+        },
+        "entries": [
+          "Lolth is the spider demon, a sinister entity with a dark, seductive allure. It lures its followers into treacherous webs of deceit and cunning, especially among the drow who venerate it."
+        ]
+      },
+      {
+        "name": "Termina",
+        "title": "Enforcer of Ascension Challenges",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["N"],
+        "domains": ["Challenge"],
+        "symbol": "A sword crossed with a gauntlet",
+        "pantheon": "Ancient Forces",
+        "customProperties": {
+          "Depiction": "A stoic figure bearing a sword and gauntlet",
+          "Worshipers": "Champions, adventurers, those who seek to prove their worth",
+          "Sacred Places": "Arena coliseums, challenge arenas, ancient battlegrounds",
+          "Suggested Classes": "Fighters, paladins, champions"
+        },
+        "entries": [
+          "Termina is the enforcer of ascension challenges, a stoic figure who oversees tests of strength, skill, and valor. Those who undertake challenges in the name of Termina seek to prove their worth and earn their place among the mighty."
+        ]
+      },
+      {
+        "name": "Korg",
+        "title": "King of the gods, God of Lightning, Thunder, and Justice",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["L", "G"],
+        "domains": ["Tempest", "Light", "Justice"],
+        "symbol": "A lightning bolt crossed with scales of justice",
+        "pantheon": "Arvanaith",
+        "customProperties": {
+          "Depiction": "A regal figure holding a lightning bolt and scales of justice",
+          "Worshipers": "Kings, judges, champions of justice, those who seek protection from storms",
+          "Sacred Places": "Courthouses, temples of justice, mountaintop sanctuaries",
+          "Suggested Classes": "Paladins, clerics, storm sorcerers"
+        },
+        "entries": [
+          "Korg is the King of the gods and the embodiment of lightning, thunder, and justice. He brings righteous fury to those who defy the laws of morality and stands as a protector against the fury of storms."
+        ]
+      },
+      {
+        "name": "Nalani",
+        "title": "Queen of the gods, Goddess of Marriage, Childbirth, and Fertility",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["L", "G"],
+        "domains": ["Life", "Light", "Fertility"],
+        "symbol": "Two intertwined rings of light",
+        "pantheon": "Arvanaith",
+        "customProperties": {
+          "Depiction": "A motherly figure surrounded by the aura of light and life",
+          "Worshipers": "Married couples, expectant mothers, farmers, those seeking love and fertility",
+          "Sacred Places": "Temples of love, fertile fields, birthing sanctuaries",
+          "Suggested Classes": "Clerics, druids, bards"
+        },
+        "entries": [
+          "Nalani is the Queen of the gods, overseeing the domains of marriage, childbirth, and fertility. She blesses unions with love and brings the gift of life to the world."
+        ]
+      },
+      {
+        "name": "Pethaida",
+        "title": "God of the Sea, Earthquakes, and Horses",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["N", "G"],
+        "domains": ["Tempest", "Earth", "Beasts"],
+        "symbol": "A crashing wave with a horse emerging",
+        "pantheon": "Arvanaith",
+        "customProperties": {
+          "Depiction": "A god riding a majestic sea horse, commanding the elements",
+          "Worshipers": "Sailors, equestrians, those who rely on the sea for sustenance",
+          "Sacred Places": "Coastal shrines, stables near the sea, earthquake-prone regions",
+          "Suggested Classes": "Clerics, druids, sailors"
+        },
+        "entries": [
+          "Pethaida is the god of the sea, earthquakes, and horses. He commands the might of the ocean, the earth's tremors, and the grace of horses. His blessings ensure safe voyages and bountiful harvests."
+        ]
+      },
+      {
+        "name": "Thainith",
+        "title": "Goddess of Wisdom, War, and Crafts",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["L", "N"],
+        "domains": ["Knowledge", "War", "Craft"],
+        "symbol": "A quill crossed with a sword and hammer",
+        "pantheon": "Arvanaith",
+        "customProperties": {
+          "Depiction": "A wise warrior crafting a masterpiece of knowledge and war",
+          "Worshipers": "Scholars, warriors, craftsmen, those who seek wisdom and mastery",
+          "Sacred Places": "Libraries, war academies, craft guilds",
+          "Suggested Classes": "Wizards, fighters, artisans"
+        },
+        "entries": [
+          "Thainith is the goddess of wisdom, war, and crafts. She represents the synergy between knowledge, martial prowess, and craftsmanship. Her guidance leads to strategic brilliance and artistic mastery."
+        ]
+      },
+      {
+        "name": "Solaria",
+        "title": "God of the Sun, Music, and Prophecy",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["N", "G"],
+        "domains": ["Light", "Life", "Prophecy"],
+        "symbol": "A radiant sun with musical notes",
+        "pantheon": "Arvanaith",
+        "customProperties": {
+          "Depiction": "A radiant figure holding a sun-shaped lute",
+          "Worshipers": "Bards, musicians, seers, those who seek enlightenment",
+          "Sacred Places": "Music halls, temples of light, oracles' chambers",
+          "Suggested Classes": "Bards, clerics, seers"
+        },
+        "entries": [
+          "Solaria is the god of the sun, music, and prophecy. The radiant warmth of the sun, the harmony of music, and glimpses into the future all fall under Solaria's benevolent influence."
+        ]
+      },
+      {
+        "name": "Orion",
+        "title": "Goddess of the Hunt, Wilderness, and Childbirth",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["N", "G"],
+        "domains": ["Nature", "Life", "Fertility"],
+        "symbol": "A bow and arrow crossed with a pregnant belly",
+        "pantheon": "Arvanaith",
+        "customProperties": {
+          "Depiction": "A skilled huntress with a bow, surrounded by the wild and fertile land",
+          "Worshipers": "Hunters, wilderness explorers, expectant mothers, those who revere nature",
+          "Sacred Places": "Deep forests, birthing groves, hunting lodges",
+          "Suggested Classes": "Rangers, druids, midwives"
+        },
+        "entries": [
+          "Orion is the goddess of the hunt, wilderness, and childbirth. She embodies the cycles of life, from the hunt for sustenance to the miracle of birth, all within the embrace of the untamed wilderness."
+        ]
+      },
+      {
+        "name": "Zarin",
+        "title": "God of War",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["C", "N"],
+        "domains": ["War"],
+        "symbol": "Crossed swords",
+        "pantheon": "Arvanaith",
+        "customProperties": {
+          "Depiction": "A formidable warrior wielding twin swords",
+          "Worshipers": "Soldiers, mercenaries, those who seek martial prowess",
+          "Sacred Places": "Battlefields, martial arenas, training grounds",
+          "Suggested Classes": "Fighters, barbarians, monks"
+        },
+        "entries": [
+          "Zarin is the god of war, embodying the chaos and ferocity of battle. Warriors call upon his name for strength and victory in the heat of combat."
+        ]
+      },
+      {
+        "name": "Eros",
+        "title": "God of Wine, Celebration, and Fertility",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["C", "G"],
+        "domains": ["Life", "Light", "Fertility"],
+        "symbol": "A goblet overflowing with wine",
+        "pantheon": "Arvanaith",
+        "customProperties": {
+          "Depiction": "A jovial figure raising a goblet in celebration",
+          "Worshipers": "Winegrowers, revelers, those who seek merriment and fertility",
+          "Sacred Places": "Vineyards, festive plazas, celebration halls",
+          "Suggested Classes": "Bards, vintners, revelers"
+        },
+        "entries": [
+          "Eros is the god of wine, celebration, and fertility. His presence ensures bountiful harvests and joyous celebrations filled with merriment."
+        ]
+      },
+      {
+        "name": "Verin",
+        "title": "God of the Underworld",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["L", "N"],
+        "domains": ["Death"],
+        "symbol": "A stylized gate to the underworld",
+        "pantheon": "Arvanaith",
+        "customProperties": {
+          "Depiction": "A somber figure guarding the entrance to the underworld",
+          "Worshipers": "Mourners, those who seek guidance for the deceased, those who confront mortality",
+          "Sacred Places": "Mausoleums, necropolises, ancestral tombs",
+          "Suggested Classes": "Clerics, necromancers, morticians"
+        },
+        "entries": [
+          "Verin is the god of the underworld, overseeing the passage of souls to the afterlife. Those who revere him seek solace and guidance in the face of death's inevitability."
+        ]
+      },
+      {
+        "name": "Selune",
+        "title": "The Moon, Darkness, Illusion, and Mystery",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["N", "E"],
+        "domains": ["Trickery", "Moon", "Shadow"],
+        "symbol": "A crescent moon veiled in shadows",
+        "pantheon": "Arvanaith",
+        "customProperties": {
+          "Depiction": "A mysterious figure shrouded in moonlight and shadows",
+          "Worshipers": "Mystics, illusionists, those who embrace the enigma of the night",
+          "Sacred Places": "Moonlit groves, hidden sanctuaries, shadowy realms",
+          "Suggested Classes": "Rogues, shadowmancers, moon priests"
+        },
+        "entries": [
+          "Selune is the deity of the moon, darkness, illusion, and mystery. Her presence casts veils of shadows and intrigue over the world, attracting those who seek to unravel the secrets of the night."
+        ]
+      },
+      {
+        "name": "I'jin",
+        "title": "The Almiraj",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["N", "G"],
+        "domains": ["Trickery", "Dexterity"],
+        "symbol": "An almiraj horn",
+        "pantheon": "Chult",
+        "customProperties": {
+          "Depiction": "An elusive almiraj with gleaming horns",
+          "Worshipers": "Thieves, acrobats, those who seek dexterity",
+          "Sacred Places": "Hidden dens, acrobat's arenas, shadowy alleys",
+          "Suggested Classes": "Rogues, monks, acrobats"
+        },
+        "entries": [
+          "I'jin, the Almiraj, bestows the gift of extreme dexterity upon those who invoke their name. This elusive deity is known for their nimbleness and stealth."
+        ]
+      },
+      {
+        "name": "Kubazan",
+        "title": "The Froghemoth",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["L", "G"],
+        "domains": ["Strength"],
+        "symbol": "A froghemoth's webbed claw",
+        "pantheon": "Chult",
+        "customProperties": {
+          "Depiction": "A mighty froghemoth with bulging muscles",
+          "Worshipers": "Warriors, strongmen, those who seek strength",
+          "Sacred Places": "Training grounds, arenas, swamps",
+          "Suggested Classes": "Fighters, barbarians, athletes"
+        },
+        "entries": [
+          "Kubazan, the Froghemoth, grants the power of immense strength to their followers. This mighty deity embodies raw physical power and endurance."
+        ]
+      },
+      {
+        "name": "Moa",
+        "title": "The Jaculi",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["N", "G"],
+        "domains": ["Trickery", "Invisibility"],
+        "symbol": "A jaculi coiled in invisibility",
+        "pantheon": "Chult",
+        "customProperties": {
+          "Depiction": "A graceful jaculi shrouded in invisibility",
+          "Worshipers": "Spies, infiltrators, those who seek invisibility",
+          "Sacred Places": "Secret hideouts, covert sanctuaries, shadowy realms",
+          "Suggested Classes": "Rogues, assassins, spies"
+        },
+        "entries": [
+          "Moa, the Jaculi, bestows the gift of invisibility upon their adherents. This graceful deity excels in stealth and covert operations."
+        ]
+      },
+      {
+        "name": "Nangnang",
+        "title": "The Grung",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["C", "N"],
+        "domains": ["Trickery", "Mobility"],
+        "symbol": "A grung clinging to walls and ceilings",
+        "pantheon": "Chult",
+        "customProperties": {
+          "Depiction": "A nimble grung moving effortlessly on walls and ceilings",
+          "Worshipers": "Acrobats, climbers, those who seek mobility",
+          "Sacred Places": "Jungle canopy shrines, vertical caves, treacherous cliffs",
+          "Suggested Classes": "Monks, climbers, scouts"
+        },
+        "entries": [
+          "Nangnang, the Grung, imparts the gift of walking on ceilings and walls without needing one's hands. This nimble deity excels in mobility and acrobatics."
+        ]
+      },
+      {
+        "name": "Obo'laka",
+        "title": "The Zorbo",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["L", "N"],
+        "domains": ["Magic", "Attunement"],
+        "symbol": "A zorbo surrounded by magical items",
+        "pantheon": "Chult",
+        "customProperties": {
+          "Depiction": "A zorbo surrounded by mystical artifacts",
+          "Worshipers": "Mages, collectors, those who seek magical attunement",
+          "Sacred Places": "Arcane libraries, treasure vaults, mystical sanctuaries",
+          "Suggested Classes": "Wizards, collectors, enchanters"
+        },
+        "entries": [
+          "Obo'laka, the Zorbo, allows the host to attune to more magical items. This deity is associated with magic and the mysteries of arcane artifacts."
+        ]
+      },
+      {
+        "name": "Papazotl",
+        "title": "The Eblis",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["C", "G"],
+        "domains": ["Perception", "Alertness"],
+        "symbol": "A pair of alert eblis eyes",
+        "pantheon": "Chult",
+        "customProperties": {
+          "Depiction": "An eblis with keen eyes constantly scanning its surroundings",
+          "Worshipers": "Sentinels, scouts, those who seek heightened perception",
+          "Sacred Places": "Watchtowers, sentinel outposts, observatories",
+          "Suggested Classes": "Rangers, sentinels, vigilant guardians"
+        },
+        "entries": [
+          "Papazotl, the Eblis, grants the power of impossibly perceptive senses to their host. This deity excels in alertness and surveillance."
+        ]
+      },
+      {
+        "name": "Shagambi",
+        "title": "The Kamadan",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["L", "G"],
+        "domains": ["War", "Combat"],
+        "symbol": "A kamadan poised for rapid attacks",
+        "pantheon": "Chult",
+        "customProperties": {
+          "Depiction": "A kamadan with multiple tails ready for combat",
+          "Worshipers": "Warriors, duelists, those who seek combat prowess",
+          "Sacred Places": "Battlefields, dueling arenas, martial academies",
+          "Suggested Classes": "Fighters, duelists, combat instructors"
+        },
+        "entries": [
+          "Shagambi, the Kamadan, allows the host to make attacks in rapid succession. This deity excels in martial combat and swift strikes."
+        ]
+      },
+      {
+        "name": "Unkh",
+        "title": "The Flail Snail",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["N", "E"],
+        "domains": ["Life", "Constitution"],
+        "symbol": "A flail snail shell with a sturdy constitution",
+        "pantheon": "Chult",
+        "customProperties": {
+          "Depiction": "A resolute flail snail with a tough, resilient shell",
+          "Worshipers": "Healers, endurance athletes, those who seek resilience",
+          "Sacred Places": "Sanctuaries of healing, endurance courses, fortified shelters",
+          "Suggested Classes": "Clerics, healers, endurance trainers"
+        },
+        "entries": [
+          "Unkh, the Flail Snail, bestows the gift of very high tolerance and constitution. This deity embodies endurance and unwavering resilience."
+        ]
+      },
+      {
+        "name": "Wongo",
+        "title": "The Su-Monster",
+        "source": "A'vealyn",
+        "page": 0,
+        "alignment": ["C", "E"],
+        "domains": ["Psionics", "Power"],
+        "symbol": "A su-monster surrounded by psionic energy",
+        "pantheon": "Chult",
+        "customProperties": {
+          "Depiction": "A su-monster channeling raw psionic power",
+          "Worshipers": "Psychics, psionics, those who seek mental mastery",
+          "Sacred Places": "Psionic chambers, meditation sanctuaries, places of mental focus",
+          "Suggested Classes": "Psions, telepaths, psychic warriors"
+        },
+        "entries": [
+          "Wongo, the Su-Monster, imparts the ability of psionic power to the inhabited individual. This deity is associated with the raw force of mental prowess."
+        ]
+      }
+    ],
+    "race": [
+        {
+            "name": "Drakari",
+            "source": "A'vealyn",
+            "page": 0,
+            "ability": [
+                {
+                    "con": 2,
+                    "str": 1
+                }
+            ],
+            "size": ["M"],
+            "speed": 30,
+            "entries": [
+                {
+                    "type": "entries",
+                    "name": "Age",
+                    "entries": [
+                        "The average lifespan of a Drakari is 500 years, but in some cases, they can live as long as 700 years."
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Alignment",
+                    "entries": [
+                        "The alignment of a Drakari varies based on the type of dragon they are based on."
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Quadrupedal",
+                    "entries": [
+                        "Drakari are faster when walking on all fours. When walking on all fours, their walking speed is 40ft, but they can't hold anything in their hands. When walking on two legs, their walking speed is 25ft, but they can use their hands normally."
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Wings",
+                    "entries": [
+                        "Drakari have a flying speed of 30ft."
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Powerful Build",
+                    "entries": [
+                        "Drakari count as one size larger when determining their carrying capacity and the weight they can push, drag, or lift."
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Long-Limbed",
+                    "entries": [
+                        "When making a melee attack on their turn, a Drakari's reach is 5 feet greater than normal."
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Draconic Darkvision",
+                    "entries": [
+                        "A Drakari's vision evolves as they level up. At level 1, they have 60ft of Darkvision. At level 6, they gain 15ft of Blindsight. At level 11, they gain another 15ft of Blindsight, totaling 30ft of Blindsight. At level 16, they gain 15ft of True-sight."
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Unarmed Strikes",
+                    "entries": [
+                        "Drakari can make a bite attack that deals 1d6 piercing damage once per turn instead of a normal unarmed strike. The rest of their unarmed strikes use their claws and deal 1d6 slashing damage."
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Charged Attacks",
+                    "entries": [
+                        "As a Drakari, you can empower one of your unarmed strikes with extra damage based on your total class level. You also gain resistance to the type of damage your charged attack does. You can do this once per short or long rest.",
+                        "Choose one of the following types of damage for your charged attack:",
+                        "- Gray: Your unarmed strikes always hit a little harder and deal magical slashing or piercing damage. At level 1 (1d8), at level 6 (1d10), at level 11 (1d12), at level 16 (1d20).",
+                        "- Purple: Fire (6d6), at level 6 (8d6), at level 11 (10d6), at level 16 (12d6).",
+                        "- Amethyst: Force (6d6), at level 6 (8d6), at level 11 (10d6), at level 16 (12d6).",
+                        "- Blue: Lightning (6d6), at level 6 (8d6), at level 11 (10d6), at level 16 (12d6).",
+                        "- Gold: Fire (6d6), at level 6 (8d6), at level 11 (10d6), at level 16 (12d6).",
+                        "- White: Cold (6d6), at level 6 (8d6), at level 11 (10d6), at level 16 (12d6).",
+                        "- Black: Acid (6d6), at level 6 (8d6), at level 11 (10d6), at level 16 (12d6).",
+                        "- Copper: Acid (6d6), at level 6 (8d6), at level 11 (10d6), at level 16 (12d6).",
+                        "- Deep: Psychic (6d6), at level 6 (8d6), at level 11 (10d6), at level 16 (12d6).",
+                        "- Crystal: Radiant (6d6), at level 6 (8d6), at level 11 (10d6), at level 16 (12d6).",
+                        "- Emerald: Psychic (6d6), at level 6 (8d6), at level 11 (10d6), at level 16 (12d6).",
+                        "- Sapphire: Thunder (6d6), at level 6 (8d6), at level 11 (10d6), at level 16 (12d6).",
+                        "- Green: Poison (6d6), at level 6 (8d6), at level 11 (10d6), at level 16 (12d6).",
+                        "- Silver: Cold (6d6), at level 6 (8d6), at level 11 (10d6), at level 16 (12d6).",
+                        "- Topaz: Necrotic (6d6), at level 6 (8d6), at level 11 (10d6), at level 16 (12d6)."
+                    ]
+                }
+            ]
+        }
+    ],
+    "monster": [
+        {
+            "name": "Dargûl",
+            "source": "A'vealyn",
+            "size": ["M"],
+            "type": "undead",
+            "page": 0,
+            "alignment": ["CE"],
+            "ac": [
+                {
+                    "ac": 14,
+                    "from": ["natural armor"]
+                }
+            ],
+            "hp": {
+                "average": 105,
+                "formula": "10d10 + 40"
+            },
+            "speed": {
+                "walk": 80,
+                "fly": 40
+            },
+            "str": 16,
+            "dex": 14,
+            "con": 16,
+            "int": 8,
+            "wis": 10,
+            "cha": 6,
+            "skill": {
+                "insight": "+2"
+            },
+            "passive": 10,
+            "resist": [
+                "necrotic",
+                "cold",
+                "acid",
+                "poison",
+                "thunder",
+                "lightning"
+            ],
+            "cr": "5",
+            "trait": [
+                {
+                    "name": "Rejuvenation",
+                    "entries": ["If the Dargûl is destroyed, it reforms 1d6 days later at full hit points."]
+                },
+                {
+                    "name": "Shadow Stealth",
+                    "entries": ["While in dim light or darkness, the Dargûl can take the Hide action as a bonus action."]
+                },
+                {
+                    "name": "Shadow Aura",
+                    "entries": ["The Dargûl radiates an aura of darkness in a 5-foot radius. Any creatures that start their turn within this aura must make a DC 11 Wisdom saving throw or be frightened until the end of their turn."]
+                },
+                {
+                    "name": "Shadow Resistance",
+                    "entries": ["The Dargûl has advantage on saving throws against magical effects that would alter its form or appearance."]
+                }
+            ],
+            "action": [
+                {
+                    "name": "Multiattack",
+                    "entries": ["The Dargûl makes two claw attacks."]
+                },
+                {
+                    "name": "Claw",
+                    "entries": ["{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) slashing damage. And 8 ({@damage 2d4 + 2}) Necrotic Damage."]
+                },
+                {
+                    "name": "Shadow Drain",
+                    "entries": ["The Dargûl can use its action to drain the life force of a creature within 5 feet of it. The target must make a DC 13 Constitution saving throw. On a failed save, the target takes 10 (3d6) necrotic damage and the Dargûl gains temporary hit points equal to the damage dealt. On a successful save, the target takes half as much damage and the Dargûl gains no temporary hit points."]
+                },
+                {
+                    "name": "(1/day) Shadow Strike",
+                    "entries": ["The Dargûl becomes incorporeal and moves through solid objects for the next minute. It can also use its claw attack against any creature it moves through, and these attacks deal an additional 2d6 necrotic damage."]
+                }
+            ],
+            "fluff": {
+                "entries": [
+                    "Dargûl are sinister undead creatures, native to the shadowy realms of A'vealyn. They are known for their eerie ability to reform after being destroyed, their affinity for darkness, and their draining touch. Dargûl are often found lurking in places where shadows reign, seeking to spread fear and despair.",
+                    "These creatures have a supernatural connection to the shadow plane, allowing them to become incorporeal at will. When in this form, they can move through solid objects and strike with deadly precision. The touch of a Dargûl drains the life force of its victims, making them even more formidable opponents.",
+                    "Legends say that Dargûl were once mortals who delved too deeply into forbidden shadow magic, and as a result, they were cursed with undeath. Whether these tales are true or not, encountering a Dargûl is a terrifying experience, and it's best to avoid them whenever possible."
+                ]
+            },
+            "damageTags": ["N"],
+            "miscTags": ["MW"],
+            "conditionInflict": ["prone"],
+            "savingThrowForced": ["strength"]
+        },
+        {
+            "name": "Elemental of Fate",
+            "source": "A'vealyn",
+            "size": ["M"],
+            "type": "elemental",
+            "ac": [
+                {
+                    "ac": 14,
+                    "from": ["natural armor"]
+                }
+            ],
+            "hp": {
+                "average": 50,
+                "formula": "50 (Does not heal until it respawns)"
+            },
+            "speed": {
+                "walk": 60,
+                "fly": 60,
+                "hover": true
+            },
+            "str": 10,
+            "dex": 16,
+            "con": 12,
+            "int": 10,
+            "wis": 15,
+            "cha": 10,
+            "savingThrows": {
+                "dex": "+5",
+                "wis": "+4"
+            },
+            "damageResist": ["bludgeoning", "piercing", "slashing (from nonmagical attacks)"],
+            "damageImmune": ["poison"],
+            "conditionImmune": ["exhaustion", "grappled", "paralyzed", "petrified", "poisoned", "prone", "restrained"],
+            "senses": [
+                "darkvision 60 ft.",
+                "foresight",
+                "passive Perception 12"
+            ],
+            "languages": ["understands the companion but can't speak"],
+            "innateSpellcasting": {
+                "ability": "wis",
+                "spells": {
+                    "atWill": ["augury", "guidance"]
+                }
+            },
+            "trait": [
+                {
+                    "name": "Elemental Bond",
+                    "entries": ["The Elemental of Fate is bound to a specific creature and cannot be controlled by anyone else. It can communicate telepathically with its bonded creature over any distance on the same plane of existence."]
+                }
+            ],
+            "fluff": {
+                "entries": ["Appearance: The Elemental of Fate appears as a shimmering figure composed of radiant energy, surrounded by an aura of swirling threads of fate. Its form constantly shifts and changes, giving the impression that it is not entirely bound by the physical world. NOTE: Only the bonded character can see the Elemental of Fate. It can not be targeted by enemies. The only way for it to take damage is AOE."]
+            },
+            "ability": [
+                {
+                    "name": "EACH LONG REST",
+                    "entries": ["Choose two of the following effects to be active for the day:"],
+                    "subtrait": [
+                        {
+                            "name": "Foresight",
+                            "entries": ["The Elemental of Fate grants its bonded creature the ability to glimpse into the future. The bonded creature gains advantage on Initiative rolls."]
+                        },
+                        {
+                            "name": "True Sight",
+                            "entries": ["The Elemental of Fate grants its bonded creature the ability to see the true nature of things. The bonded creature can see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceive the original form of a shapechanger or a creature that is transformed by magic, out to 15ft."]
+                        },
+                        {
+                            "name": "Shared Fortune",
+                            "entries": ["The Elemental of Fate's presence brings fortune to its bonded creature. The bonded creature gains advantage on saving throws against effects that would cause it to be charmed or frightened."]
+                        },
+                        {
+                            "name": "Guiding Touch",
+                            "entries": ["The Elemental of Fate can touch its bonded creature, granting them guidance in their actions. Once per day, the bonded creature can reroll an ability check, attack roll, or saving throw and must use the new roll."]
+                        },
+                        {
+                            "name": "Resonance of Destiny",
+                            "entries": ["The Elemental of Fate can empower its bonded creature's attacks with the resonance of fate. The bonded creature's attacks deal an additional 1d6 force damage."]
+                        },
+                        {
+                            "name": "Blessing of Evasion",
+                            "entries": ["The Elemental of Fate grants its bonded creature the ability to nimbly dodge out of the way of danger. The bonded creature gains the Evasion feature, allowing it to take no damage on a successful Dexterity saving throw against effects that normally deal half damage on a successful save."]
+                        },
+                        {
+                            "name": "Fate's Insight",
+                            "entries": ["The elemental provides constant insights to its bonded companion. The companion has advantage on Intelligence checks to recall information related to history, religion, and arcana."]
+                        }
+                    ]
+                }
+            ],
+            "action": [
+                {
+                    "name": "Fate's Ward (Recharge 6)",
+                    "entries": ["The Elemental of Fate creates a protective barrier around its bonded creature. The bonded creature gains a +2 bonus to AC and saving throws for 1 round."]
+                }
+            ]
+        },
+        {
+            "name": "Time Elemental",
+            "source": "A'vealyn",
+            "size": ["L"],
+            "type": "elemental",
+            "page": 0,
+            "alignment": ["N"],
+            "ac": [
+                {
+                    "ac": 18,
+                    "from": ["natural armor"]
+                }
+            ],
+            "hp": {
+                "average": 69,
+                "formula": "20d10 + 100"
+            },
+            "speed": {
+                "walk": 60
+            },
+            "str": 24,
+            "dex": 20,
+            "con": 22,
+            "int": 10,
+            "wis": 16,
+            "cha": 10,
+            "resist": [
+                "cold",
+                "fire",
+                "lightning",
+                "bludgeoning",
+                "piercing",
+                "slashing (from nonmagical attacks)"
+            ],
+            "immune": ["psychic"],
+            "conditionImmune": [
+                "charmed",
+                "exhaustion",
+                "frightened",
+                "paralyzed",
+                "petrified",
+                "poisoned"
+            ],
+            "senses": [
+                "darkvision 120 ft.",
+                "passive Perception 14"
+            ],
+            "languages": ["understands the languages of its summoner but can't speak"],
+            "cr": "9 (5,000 XP)",
+            "trait": [
+                {
+                    "name": "Elemental Form",
+                    "entries": ["The time elemental doesn't require air, food, drink, or sleep."]
+                },
+                {
+                    "name": "Innate Spellcasting",
+                    "entries": ["The time elemental's innate spellcasting ability is Intelligence (spell save DC 15). The elemental can cast the following spells, requiring no material components:"],
+                    "spellcasting": {
+                        "DC": 15,
+                        "ability": "int",
+                        "spells": {
+                            "atWill": ["haste", "slow"],
+                            "1/day": ["time stop"]
+                        }
+                    }
+                },
+                {
+                    "name": "Legendary Resistance",
+                    "entries": ["(2/day) If the time elemental fails a saving throw, it can choose to succeed instead."]
+                },
+                {
+                    "name": "Magic Resistance",
+                    "entries": ["The time elemental has advantage on saving throws against spells and other magical effects."]
+                },
+                {
+                    "name": "Reactive Time",
+                    "entries": ["The time elemental can take one reaction on every creature's turn, rather than only one reaction on its own turn."]
+                },
+                {
+                    "name": "Time Warp",
+                    "entries": ["Once per day, the elemental can use a bonus action to enter a state of temporal flux for 1 minute. During this time, the elemental has advantage on all attack rolls and ability checks, and can take an extra action on each of its turns. Additionally, any creature that starts its turn within 30 feet of the elemental must succeed on a DC 15 Constitution saving throw or be affected by the slow spell for 1 minute."]
+                }
+            ],
+            "action": [
+                {
+                    "name": "Multiattack",
+                    "entries": ["The time elemental makes two slam attacks."]
+                },
+                {
+                    "name": "Slam",
+                    "entries": ["Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 23 (3d10 + 7) bludgeoning damage."]
+                },
+                {
+                    "name": "Temporal Distortion (Recharge 5-6)",
+                    "entries": ["The time elemental causes a ripple in time and space, affecting a 60-foot cube centered on itself. Each creature within the area must succeed on a DC 15 Wisdom saving throw or be affected by the slow spell for 1d4-2 rounds. The elemental can't use this ability again until it finishes a short or long rest."]
+                }
+            ]
+        }
+    ]
+}
